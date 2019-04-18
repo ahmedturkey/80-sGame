@@ -5,7 +5,7 @@
 [<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://#)
 [<img alt="Get it on F-Droid" height="80" src="https://f-droid.org/badge/get-it-on.png">](https://f-droid.org/##)
 
-# Simple-Brick-Games
+# 80's Game
 You can find screenshots for phones [here](./screenshots)
 
 This is litteraly my first Android app and even my first greater project. So please have sympathy that my code style isn't the best. 
